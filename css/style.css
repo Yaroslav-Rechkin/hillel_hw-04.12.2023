@@ -108,3 +108,22 @@ body {
 .advantages-img {
   margin-bottom: 25px;
 }
+
+/* how-we-working */
+
+.how-we-working-container {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 120px;
+}
+.how-we-working-title {
+  font-size: 32px;
+  font-family: 'Architects Daughter', cursive;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.how-we-working-text {
+  line-height: 164.063%;
+  text-align: justify;
+}
