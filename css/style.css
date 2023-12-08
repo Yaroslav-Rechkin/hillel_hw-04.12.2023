@@ -127,3 +127,28 @@ body {
   line-height: 164.063%;
   text-align: justify;
 }
+
+/* cards */
+
+.our-works-title {
+  text-align: center;
+  font-family: 'Architects Daughter', cursive;
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+.cards {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 120px;
+}
+.cards-item {
+  text-align: center;
+  background: #81A36B;
+  width: 350px;
+  height: 510px;
+  border-radius: 6px;
+  padding: 15px;
+}
+.cards-img {
+  margin-bottom: 23px;
+}
