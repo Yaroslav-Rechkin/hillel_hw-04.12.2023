@@ -46,6 +46,7 @@ body {
   display: flex;
   align-items: center;
   gap: 30px;
+  margin-bottom: 120px;
 }
 .first-section-title {
   font-family: 'Architects Daughter', cursive;
@@ -74,4 +75,20 @@ body {
   padding: 18px 34px 21px 34px;
   border: 1px solid #81A36B;
   border-radius: 6px;
+}
+
+/* about-us */
+
+.about-us-container {
+  max-width: 540px;
+  text-align: center;
+}
+.about-us-title {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+.about-us-text {
+  margin-bottom: 120px;
+  line-height: 164.063%;
 }
